@@ -11,7 +11,7 @@ import UIKit;
 import AVFoundation;
 
 class ViewController: UIViewController {
-
+    //testtttt
     @IBOutlet weak var rightImageView: UIImageView!;
     @IBOutlet weak var leftImageView: UIImageView!;
     @IBOutlet weak var leftScoreLabel: UILabel!;
